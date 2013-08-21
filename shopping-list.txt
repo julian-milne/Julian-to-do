@@ -1,6 +1,7 @@
-eggs
 bread
 milk
 sausages
 cheese
 Quorn
+
+Don't forget a toothbrush! 
