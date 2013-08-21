@@ -1,7 +1,7 @@
 bread
-milk
-sausages
 cheese
 Quorn
+milk
+sausages
 
 Don't forget a toothbrush! 
