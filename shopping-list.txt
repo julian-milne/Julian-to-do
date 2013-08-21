@@ -1,8 +1,7 @@
 bread
-milk
-sausages
-pineapple
 cheese
 Quorn
+milk
+sausages
 
 Don't forget a toothbrush! 
