@@ -1,6 +1,7 @@
 bread
 milk
 sausages
+pineapple
 cheese
 Quorn
 
