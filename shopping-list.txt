@@ -1,0 +1,6 @@
+eggs
+bread
+milk
+sausages
+cheese
+Quorn
